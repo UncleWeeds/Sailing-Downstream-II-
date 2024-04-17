@@ -5,7 +5,8 @@ This OCaml program reads lines of text from a file or standard input, reverses e
 ## Prerequisites
 
 Ensure that OCaml and OPAM are installed on your system. If not, follow the installation instructions for your specific operating system from the OCaml official website.
-Installation
+
+## Installation
 
 ### 1. Clone the Repository
 
